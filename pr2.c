@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<pthread.h>
+#include<stdlib.h>
 int x[10],y[10];  //global array
 struct arg
 {
