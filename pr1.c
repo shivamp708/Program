@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<pthread.h>
+#include<stdlib.h>
 int size,max,min;
 float avg;
 int *fun1(void *a[])
